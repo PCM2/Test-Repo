@@ -1,3 +1,3 @@
-* This is another file
+# This is another file
 
 I put it here _myself_!
